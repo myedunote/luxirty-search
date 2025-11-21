@@ -2,7 +2,7 @@
 
 [search.luxirty.com](https://search.luxirty.com)
 
-一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快。
+一个搜索引擎，基于 Google，屏蔽内容农场，无广告，无跟踪，干净，简洁，快
 
 如果想添加到浏览器中，搜索语法是 `search.luxirty.com/search?q=`
 
